@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse AI",
+  "description": "Personal AI workout planner, intelligent fitness coach, and exercise tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
